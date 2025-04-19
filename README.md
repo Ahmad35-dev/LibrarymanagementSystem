@@ -25,7 +25,4 @@ Library Management System is a full-stack web application built using Java EE te
 - **JavaScript**
 - **Apache Tomcat** (or any Java EE compatible server)
 
----
-
-## 📦 Project Structure
 
